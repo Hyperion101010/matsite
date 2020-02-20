@@ -1,0 +1,8 @@
+{
+    "/url_parser/": {
+        "target" : "https://localhost:3000",
+        "secure" : false,
+        "loglevel": "debug",
+        "changeOrigin": true
+    }
+}
