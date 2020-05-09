@@ -1,27 +1,2 @@
-# Malsite
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# Malware_Detection_Webapp
+Malsite is a malware detection and honeypot detection tool. The idea for this project came when I was just browsing through the internet searching for some torrent sites. Most of the time I have experienced sites which redirect users to some different sites which often collect data and at times monitor the visitor activity to harm the person. Currently, there are tons of tools present on the but every single one of them fails to detect and curb the remote data capture/sniffing attacks that usually hackers carry out to steal your identity.  This tool is developed by keeping these factors in consideration. Developing it on such strong fundamentals we expect it to be used as an extension by common people in future and are working tirelessly to realise this dream.
